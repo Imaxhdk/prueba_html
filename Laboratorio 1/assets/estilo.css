@@ -1,0 +1,23 @@
+.encabezado{
+    border: 1px solid;
+    width: 100%;
+    padding: 30px;
+    justify-content: space-between;
+
+}
+
+h1{
+    text-align: center;
+}
+
+
+
+.centro{
+    text-align: center;
+    padding: 15px 150px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
